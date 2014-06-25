@@ -1,0 +1,11 @@
+[server1]
+username=nabarun
+host=localhost
+
+[server2]
+username=pinaki
+host=192.168.20.42
+
+[server3]
+username=root
+host=localhost
